@@ -1,0 +1,10 @@
+.socialMedia {
+    &__link {
+        color: #fff;
+        font-size: 4rem;        
+        transition: color 400ms ease-in-out;        
+        &:hover {
+            color: #d85e62;
+        }
+    }
+}

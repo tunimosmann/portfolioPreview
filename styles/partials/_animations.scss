@@ -1,0 +1,68 @@
+@keyframes message {
+    0% {
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 0.1;
+    }
+
+    20% {
+        opacity: 0.2;
+    }
+
+    30% {
+        opacity: 0.3;
+    }
+
+    40% {
+        opacity: 0.4;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    60% {
+        opacity: 0.6;
+    }
+
+    70% {
+        opacity: 0.7;
+    }
+
+    80% {
+        opacity: 0.8;
+    }
+
+    90% {
+        opacity: 0.9;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes keyword {
+    0% {
+        color: #fff;
+    }    
+
+    25% {
+        color: #f2c9c9;
+    }
+
+    50% {
+        color: #eaa9a9;
+    }
+
+    75% {
+        color: #df7a7a;
+    }
+
+    100% {
+        color: #d85e62;
+    }
+}
+
